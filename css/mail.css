@@ -1,0 +1,75 @@
+body{
+	background:url("../spam.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	
+
+}
+
+header.col-lg-12{
+display: flex;
+justify-content: center;
+
+
+
+
+
+}
+
+
+div.container-fluid{
+	background-color: whitesmoke;
+	display:flex;
+	justify-content: center;
+	margin-bottom: 150px;
+	font-size: 25px;
+}
+
+.dest{
+	margin-top:10px;
+	width:300px;
+
+
+
+
+}
+
+.exp{
+	width:300px;
+
+}
+
+
+.send{
+
+	display: flex;
+	justify-content: center;
+	margin-left: 175px;
+	color: red;
+}
+
+
+.msg{
+	height: 150px;
+	width:300px;
+
+}
+
+section.col-md-4{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	background-color: red;
+	margin-left: 450px;
+	
+
+	
+
+
+
+
+}
+
+
+
